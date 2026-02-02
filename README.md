@@ -1,3 +1,3 @@
-# JALA_Assignments
+# Assignments
 
-This repository contains Python, SQL, and Frontend.
+This repository contains Python, SQL, and Frontend assignments.
